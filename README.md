@@ -5,4 +5,6 @@ Yes it's vibe coded, I have a background in photography so I'll leave the coding
 
 I will not be updating this for a while so fork as you please, just be kind. 
 
+To find the app, unzip, find the app folder then Xbox360_Controller_Manager-1.0.0-x86_64.AppImage
+
 All the best. 
