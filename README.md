@@ -9,4 +9,6 @@ I will not be updating this for a while so fork as you please, just be kind.
 
 To find the app, unzip, find the app folder then Xbox360_Controller_Manager-1.0.0-x86_64.AppImage
 
+https://youtu.be/6XvyTdEbsPs    < DEMO
+
 All the best. 
